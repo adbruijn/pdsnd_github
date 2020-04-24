@@ -5,7 +5,7 @@
 BikeShare
 
 ### Description
-Describe what your project is about and what it does
+Script that could answer questions about US Bike Share data by computing descriptive statistics.
 
 ### Files used
 Include the files used
